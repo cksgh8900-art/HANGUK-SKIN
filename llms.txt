@@ -1,19 +1,24 @@
 # HANGUK SKIN
 
-> HANGUK SKIN (Hanguk Skin Private Limited) is an Indian company based in Gurugram, Haryana. It is the official importer and distributor of genuine Korean beauty brands in India, serving retailers, chains and online marketplaces.
+> HANGUK SKIN (Hanguk Skin Private Limited) is an Indian company based in Gurugram, Haryana. It is the official importer and distributor of genuine Korean beauty brands in India. It carries Korean brands only, imports them through official channels, and supplies retail stores, retail chains and online marketplace sellers across India with marketing support.
 
-## What HANGUK SKIN does
-- Imports Korean beauty brands only, through official channels. No grey-market or parallel imports.
-- Handles CDSCO import registration, India-compliant labelling and documentation.
-- Stores stock in a bonded FTWZ warehouse in India.
-- Distributes to retail stores, chains and online marketplaces across India.
-- Supports the brands it carries with online, offline and digital marketing.
-- HANGUK SKIN is printed as the importer on every pack. Partners can request import registration, invoices and batch details.
-
-## Categories
-Skincare, sun care, cleansers, sheet masks, makeup.
-
-## Contact
-- WhatsApp / phone: +91 62832 89326
+## Key facts
+- Legal name: Hanguk Skin Private Limited (CIN U46491HR2026PTC147722)
 - Registered office: 703, 7th Floor, Palm Court, Sector-16, MG Road, Gurugram, Haryana 122007, India
-- Website: https://www.kglowinindia.com/
+- Contact: WhatsApp and phone +91 62832 89326
+- "Hanguk" means Korea in Korean. Slogan: "Only Korean. Only official."
+- Korean brands only. No grey-market or parallel imports.
+- CDSCO import registration; the registration number (RC No.) and HANGUK SKIN's importer details are printed on every pack.
+- Stock held in a bonded FTWZ warehouse in India.
+- Partners can request import registration, invoices and batch details.
+- Marketing support: marketplace listings, ads and reviews; in-store displays, sampling and staff training; social and creator content.
+- Categories: skincare, sun care, cleansers, sheet masks, makeup.
+
+## Pages
+- [Home](https://www.kglowinindia.com/): who HANGUK SKIN is, the "Only Korean. Only official." promise, how products reach Indian shelves
+- [For retailers](https://www.kglowinindia.com/for-retailers): wholesale supply of genuine Korean beauty for stores, chains and online sellers in India
+- [How to check if Korean skincare is genuine in India](https://www.kglowinindia.com/genuine-korean-skincare-india): six label checks (importer, RC No., MRP, origin, batch and dates, consumer care)
+- [FAQ](https://www.kglowinindia.com/faq): company, authenticity, documents, order terms, how to partner
+
+## Optional
+- [Full text for AI assistants](https://www.kglowinindia.com/llms-full.txt)
