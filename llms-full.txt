@@ -16,9 +16,9 @@
 
 ## Pages
 - [Home](https://www.kglowinindia.com/): who HANGUK SKIN is, the "Only Korean. Only official." promise, how products reach Indian shelves
-- [For retailers](https://www.kglowinindia.com/for-retailers): wholesale supply of genuine Korean beauty for stores, chains and online sellers in India
-- [How to check if Korean skincare is genuine in India](https://www.kglowinindia.com/genuine-korean-skincare-india): six label checks (importer, RC No., MRP, origin, batch and dates, consumer care)
-- [FAQ](https://www.kglowinindia.com/faq): company, authenticity, documents, order terms, how to partner
+- [For retailers](https://www.kglowinindia.com/for-retailers/): wholesale supply of genuine Korean beauty for stores, chains and online sellers in India
+- [How to check if Korean skincare is genuine in India](https://www.kglowinindia.com/genuine-korean-skincare-india/): six label checks (importer, RC No., MRP, origin, batch and dates, consumer care)
+- [FAQ](https://www.kglowinindia.com/faq/): company, authenticity, documents, order terms, how to partner
 
 ## Optional
 - [Full text for AI assistants](https://www.kglowinindia.com/llms-full.txt)
