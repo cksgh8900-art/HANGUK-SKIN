@@ -1,3 +1,20 @@
 {
-  "trailingSlash": true
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/for-retailers.html",
+      "destination": "/for-retailers/",
+      "permanent": true
+    },
+    {
+      "source": "/genuine-korean-skincare-india.html",
+      "destination": "/genuine-korean-skincare-india/",
+      "permanent": true
+    },
+    {
+      "source": "/faq.html",
+      "destination": "/faq/",
+      "permanent": true
+    }
+  ]
 }
