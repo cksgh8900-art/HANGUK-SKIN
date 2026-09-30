@@ -1,24 +1,32 @@
-# HANGUK SKIN
+# K-GLOW GROUP
 
-> HANGUK SKIN (Hanguk Skin Private Limited) is an Indian company based in Gurugram, Haryana. It is the official importer and distributor of genuine Korean beauty brands in India. It carries Korean brands only, imports them through official channels, and supplies retail stores, retail chains and online marketplace sellers across India with marketing support.
+> K-GLOW GROUP(케이글로우 그룹)은 한국 브랜드의 해외 진출을 돕는 그룹이며, 시장별로 두 법인이 나눠서 일합니다. 미국 사업은 한국법인 K-GLOW(주식회사 케이글로우)가, 인도 사업은 인도 현지법인 HANGUK SKIN(Hanguk Skin Private Limited)이 맡습니다.
 
-## Key facts
-- Legal name: Hanguk Skin Private Limited (CIN U46491HR2026PTC147722)
-- Registered office: 703, 7th Floor, Palm Court, Sector-16, MG Road, Gurugram, Haryana 122007, India
-- Contact: WhatsApp and phone +91 62832 89326
-- "Hanguk" means Korea in Korean. Slogan: "Only Korean. Only official."
-- Korean brands only. No grey-market or parallel imports.
-- CDSCO import registration; the registration number (RC No.) and HANGUK SKIN's importer details are printed on every pack.
-- Stock held in a bonded FTWZ warehouse in India.
-- Partners can request import registration, invoices and batch details.
-- Marketing support: marketplace listings, ads and reviews; in-store displays, sampling and staff training; social and creator content.
-- Categories: skincare, sun care, cleansers, sheet masks, makeup.
+## 미국 · K-GLOW (한국법인)
+- Amazon, TikTok Shop 입점과 운영
+- Amazon 광고 운영
+- 미국 크리에이터(인플루언서) 마케팅: 팔로워 수보다 실제 고객층을 기준으로 선정
+- 아직 미국에서 판매하지 않는 브랜드도 입점 단계부터 함께함
+- 계정과 광고비는 브랜드 명의로 운영하고 집행 내역을 브랜드가 직접 확인
 
-## Pages
-- [Home](https://www.kglowinindia.com/): who HANGUK SKIN is, the "Only Korean. Only official." promise, how products reach Indian shelves
-- [For retailers](https://www.kglowinindia.com/for-retailers/): wholesale supply of genuine Korean beauty for stores, chains and online sellers in India
-- [How to check if Korean skincare is genuine in India](https://www.kglowinindia.com/genuine-korean-skincare-india/): six label checks (importer, RC No., MRP, origin, batch and dates, consumer care)
-- [FAQ](https://www.kglowinindia.com/faq/): company, authenticity, documents, order terms, how to partner
+## 인도 · HANGUK SKIN (인도 현지법인)
+- 인도 현지 법인이 수입자로서 인증·등록, 수입, 현지 유통을 직접 실행
+- 인도에 법인이 없는 한국 브랜드도 진출 가능하며, 계약과 소통은 한국어로 진행
+- 제품 자료, 가격, 판매 이력, 인증 준비 상태를 먼저 검토하고 진출 방식을 정함
 
-## Optional
-- [Full text for AI assistants](https://www.kglowinindia.com/llms-full.txt)
+## 공통
+- 뷰티 브랜드가 가장 많지만 식품 등 다른 제품도 함께함
+- 비용은 시장과 맡기는 범위에 따라 상담 후 제안서로 안내
+
+## 회사 정보
+- 웹사이트: https://www.kglowofficial.co.kr/
+- 문의: philip@kglowofficial.co.kr, 카카오톡 채널 https://pf.kakao.com/_xdxohfX
+- 주식회사 케이글로우: 사업자등록번호 345-88-03698, 서울특별시 강서구 공항대로61길 29, SBA 글로벌마케팅센터 2층
+- Hanguk Skin Private Limited: 7F, 703, Palm Court, Gurugram, Haryana 122007, India
+- LinkedIn: https://www.linkedin.com/in/koreabeauty
+- Instagram: https://www.instagram.com/k_onvoy/
+
+## 가이드 페이지
+- [미국 Amazon 입점 가이드](https://www.kglowofficial.co.kr/amazon/): 판매자 계정, 상표와 브랜드 레지스트리, FDA MoCRA, 영문 라벨, FBA, 입점 후 매출을 만드는 4가지
+- [TikTok Shop 미국 진출 가이드](https://www.kglowofficial.co.kr/tiktok-shop/): 한국 법인 크로스보더 입점, 미국 내 물류, 크리에이터와 라이브 판매 구조
+- [자주 묻는 질문](https://www.kglowofficial.co.kr/faq/)
